@@ -1,4 +1,4 @@
-# Pathfinding Algorithms
+# About
 This respatory contains java versions of various pathfinding scripts all written by me. You are free to use them as long as credit is given.
 
 The main point is just for the algoritms themselves so the other code is just to demonstrate it.
